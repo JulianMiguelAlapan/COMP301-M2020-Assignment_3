@@ -1,0 +1,10 @@
+001 Alapan Julian 48 50
+002 Son Goku 21 100
+003 Monkey Luffy 25 80
+004 Ackerman Levi 31 15
+005 Elric Edward 12 20
+006 Roronoa Zoro 32 50
+007 Uzumaki Naruto 45 150
+008 Sakata Gintoki 23 30
+009 Zoldyck Killua 40 30
+010 Uchiha Itachi 48 80
